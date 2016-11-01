@@ -1,7 +1,7 @@
 package corejava;
 
 
-public class Fibonacci {
+public class Fibonaccii {
 	int init =0;
 	int next=1;
 	int prev;
